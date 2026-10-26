@@ -1,0 +1,5 @@
+*	any value
+,	value list separator
+-	range of values
+/	step values
+@yearly	(non-standard)
